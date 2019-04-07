@@ -681,7 +681,7 @@ autod-egg@^1.1.0:
   resolved "https://registry.npmjs.org/autod-egg/-/autod-egg-1.1.0.tgz#bc37bb954661d88ef07e30dc83e11262bf9e30ac"
   integrity sha512-dZ5ZRiHcHaehQnpEBWmxHTvQfIHKUdr10Qlrs/ZdBfb6NG2lUfNlVUGnqNVkp9wFsJJTGdN7ADmW9gkN8bSLrg==
 
-autod@^3.0.1:
+autod@^3.0.1, autod@^3.1.0:
   version "3.1.0"
   resolved "https://registry.npmjs.org/autod/-/autod-3.1.0.tgz#5e27278b868b8a13b0a4b6f304ea50ba783f28e9"
   integrity sha512-sx9phRpnxeAD4tbsqXyidDLuOWuXRIbRUEj8i9GXO9Izucrq4E+LRFPGXayEVkF4SfUJRumLTNblxiz7KfzxgQ==
@@ -2434,7 +2434,7 @@ ee-first@1.1.1, ee-first@^1.1.1, ee-first@~1.1.1:
   resolved "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
-egg-bin@^4.11.0:
+egg-bin@^4.12.2:
   version "4.12.2"
   resolved "https://registry.npmjs.org/egg-bin/-/egg-bin-4.12.2.tgz#b0d275df38ba97ea8d4963074622baeb96ae6fbb"
   integrity sha512-3W1MDEGznIUVKjHoD9nTtMmDS2Lh7t9Q0pzbIUD5VyHLVhhO7P/Naq1VLqgoC2JOR0JPaXChYt/TZ7FXaqqlYA==
@@ -2587,7 +2587,7 @@ egg-logrotator@^3.0.5:
     moment "^2.22.2"
     mz "^2.7.0"
 
-egg-mock@^3.21.0:
+egg-mock@^3.22.1:
   version "3.22.1"
   resolved "https://registry.npmjs.org/egg-mock/-/egg-mock-3.22.1.tgz#7be75c94248983c124414c5e3b2227f2776b9f70"
   integrity sha512-dlgSas0cjyhNAkAuAFy8T3zcA+DCl11TGL1yvf+IJ0gHyZW9A/jItLQH06FYBKsvdoXvCnzAnMM0cQ1TSke+hw==
@@ -2769,7 +2769,7 @@ egg-watcher@^3.1.0:
     sdk-base "^3.5.0"
     wt "^1.2.0"
 
-egg@^2.15.1:
+egg@^2.20.2:
   version "2.20.2"
   resolved "https://registry.npmjs.org/egg/-/egg-2.20.2.tgz#1a532a5850820bd6b864b17d7108287f9656906f"
   integrity sha512-oP+98uklZ1E5M4clHWs6qzZXnZNV6buHL+eM8w7F88MJID4mMIFr3K7aN/sID20gSP4WvBJZ515HnRWWvVvmzg==
@@ -3012,7 +3012,7 @@ escope@^3.3.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-egg@^7.1.0:
+eslint-config-egg@^7.3.1:
   version "7.3.1"
   resolved "https://registry.npmjs.org/eslint-config-egg/-/eslint-config-egg-7.3.1.tgz#478b4097dff49927509cadefbd933f623ecdf7b7"
   integrity sha512-lD3YAPu8AQdWvTAliwU7G2ZEelkU19wwxZyrbC7YE7hd0I21Odgcs7jtxoecSuIM9z0TaAM3Pq55fxFdgSi32g==
@@ -3123,7 +3123,7 @@ eslint-visitor-keys@^1.0.0:
   resolved "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#3f3180fb2e291017716acb4c9d6d5b5c34a6a81d"
   integrity sha512-qzm/XxIbxm/FHyH341ZrbnMUpe+5Bocte9xkmFMzPMjRaZMcXww+MpBptFvtU+79L362nqiLhekCxCxDPaUMBQ==
 
-eslint@^5.13.0:
+eslint@^5.16.0:
   version "5.16.0"
   resolved "https://registry.npmjs.org/eslint/-/eslint-5.16.0.tgz#a1e3ac1aae4a3fbd8296fcf8f7ab7314cbb6abea"
   integrity sha512-S3Rz11i7c8AA5JPv7xAH+dOyq/Cu/VXHiHXBPOU1k/JAM5dXqQPt3qcrhpHSorXmrpu2g0gkIBVXAqCpzfoZIg==
