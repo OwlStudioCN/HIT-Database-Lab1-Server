@@ -44,7 +44,15 @@ module.exports = appInfo => {
     // 是否加载到 agent 上，默认关闭
     agent: false,
   };
-// add your user config here
+  config.security = {
+    csrf: {
+      enable: false,
+    },
+  };
+  config.cors = {
+    origin: '*',
+  };
+  // add your user config here
   const userConfig = {
     // myAppName: 'egg',
 
